@@ -139,12 +139,8 @@
 }
  
 #comBordaSimples td {
-    border: 1px solid blacksmoke;
+    border: 1px solid black;
 
-}
- 
-#comBordaSimples th {
-    border: 1px solid blacksmoke;
 }
 
 #title{
